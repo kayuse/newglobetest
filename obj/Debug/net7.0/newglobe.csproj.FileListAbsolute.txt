@@ -1,0 +1,15 @@
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.csproj.AssemblyReference.cache
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.csproj.CoreCompileInputs.cache
+/Users/kay/Documents/dotnet/newglobe/bin/Debug/net7.0/newglobe
+/Users/kay/Documents/dotnet/newglobe/bin/Debug/net7.0/newglobe.deps.json
+/Users/kay/Documents/dotnet/newglobe/bin/Debug/net7.0/newglobe.runtimeconfig.json
+/Users/kay/Documents/dotnet/newglobe/bin/Debug/net7.0/newglobe.dll
+/Users/kay/Documents/dotnet/newglobe/bin/Debug/net7.0/newglobe.pdb
+/Users/kay/Documents/dotnet/newglobe/bin/Debug/net7.0/nunit.framework.dll
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.csproj.CopyComplete
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.dll
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/refint/newglobe.dll
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.pdb
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/newglobe.genruntimeconfig.cache
+/Users/kay/Documents/dotnet/newglobe/obj/Debug/net7.0/ref/newglobe.dll
